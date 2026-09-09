@@ -52,4 +52,4 @@ https://www.ccleaner.com/ccleaner/version-history
 
 ## 下载地址
 
-[CCleaner 6.41.11566 去广告便携版]()
+[CCleaner 6.41.11566 去广告便携版](https://raw.githubusercontent.com/vtechdot/CCleaner/refs/heads/main/CCleaner.6.41.11566.x64.Portable.7z)
