@@ -51,5 +51,4 @@ https://www.ccleaner.com/ccleaner/version-history
 - 禁止联网验证请求，提升启动速度；
 
 ## 下载地址
-
-[CCleaner 6.41.11566 去广告便携版](https://raw.githubusercontent.com/vtechdot/CCleaner/refs/heads/main/CCleaner.6.41.11566.x64.Portable.7z)
+[CCleaner 6.41.11566 去广告便携版](https://u.pcloud.link/publink/show?code=XZI91HJZg9Uq9UNPdCjsHniNj16ViFUeFAmk)
